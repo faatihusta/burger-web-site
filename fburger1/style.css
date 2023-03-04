@@ -1,0 +1,236 @@
+body{
+    background-color: black;
+}
+
+.fbar{
+    background-color: rgb(46, 42, 42);
+    height: 45px;
+}
+
+.fburgerbaslık{
+    font-size: 25px;
+    color: white;
+    text-align: center;
+}
+
+ul{
+    padding-left: 0;
+    list-style-type: none;
+}
+
+#home{
+    float: left;
+    font-size: 25px;
+    color: white;
+    margin: 10px 0px 0px 20px;
+}
+
+#sepet{
+    float: right;
+    margin: 10px 20px 0px 0px;
+    font-size: 25px;
+    color: white;
+}
+
+.fprofil{
+    border-radius: 100%;
+    float: right;
+    text-align: center;
+    margin: 3px 15px 0px 0px ;
+}
+
+.ffiyat{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(31, 23, 23);
+    margin: 10px;
+}
+
+.flogo{
+    float: left;
+    border-radius: 100%;
+}
+
+.fsure{
+    text-align: center;
+    color: black;
+    margin: 0px 5px 0px 6px;
+    font-family: montserrat;
+}
+
+#fsure{
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    margin: 5px 0px 0px 15px;
+}
+
+.sepetmenu{
+    background-color:darkgray;
+    border-radius: 15px;
+    float: left;
+    margin: 20px 10px 10px 35px;
+    width: 800px;
+    height: 620px;
+}
+
+.sepetmenu1{
+    background-color: darkgray;
+    float: right;
+    border-radius: 15px;
+    margin: 20px 35px 10px 10px;
+    width: 500px;
+    height: 620px;
+}
+
+.sepettitle{
+    background-color: wheat;
+    border-radius: 15px 15px 0px 0px;
+    padding: 5px 0px 0px 0px;
+}
+
+.sepettitle1{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    padding: 5px;
+}
+
+.sepetbutton{
+    width: 500px;
+    height: 50px;
+    font-size: 30px;
+    background-color: rgb(31, 23, 23);
+    color: white;
+    border-radius:0px 0px 15px 15px;
+    margin: 514px 0px 0px 0px;
+}
+
+.fburger1{
+    float: left;
+    margin: 20px 20px 20px 35px;
+    background-color: grey;
+    border-radius: 15px;
+    width: 210px;
+    border: solid;
+    border-color: white;
+}
+
+.fburger2{
+    float: left;
+    margin: 20px 20px 20px 35px;
+    background-color: grey;
+    border-radius: 15px;
+    width: 210px;
+    border: solid;
+    border-color: white;
+}
+
+.fburger3{
+    float: left;
+    margin: 20px 20px 20px 35px;
+    background-color: grey;
+    border-radius: 15px;
+    width: 210px;
+    border: solid;
+    border-color: white;
+  
+}
+
+.fburger4{
+    float: left;
+    margin: 20px 20px 20px 35px;
+    background-color: grey;
+    border-radius: 15px;
+    width: 210px;
+    border: solid;
+    border-color: white;
+}
+
+.fburger5{
+    float: left;
+    margin: 20px 20px 20px 35px;
+    background-color: grey;
+    border-radius: 15px;
+    width: 210px;
+    border: solid;
+    border-color: white;
+}
+
+.fburger6{
+    float: left;
+    margin: 20px 20px 20px 35px;
+    background-color: grey;
+    border-radius: 15px;
+    width: 210px;
+    border: solid;
+    border-color: white;
+}
+
+.fburger7{
+    float: left;
+    margin: 20px 20px 20px 35px;
+    background-color: grey;
+    border-radius: 15px;
+    width: 210px;
+    border: solid;
+    border-color: white;
+}
+
+.fburger8{
+    float: left;
+    margin: 20px 20px 20px 35px;
+    background-color: grey;
+    border-radius: 15px;
+    width: 210px;
+    border: solid;
+    border-color: white;
+}
+
+.fburger9{
+    float: left;
+    margin: 20px 20px 20px 35px;
+    background-color: grey;
+    border-radius: 15px;
+    width: 210px;
+    border: solid;
+    border-color: white;
+}
+
+.fburger10{
+    float: left;
+    margin: 20px 20px 20px 35px;
+    background-color: grey;
+    border-radius: 15px;
+    width: 210px;
+    border: solid;
+    border-color: white;
+}
+
+.fburger{
+    margin: 50px;
+}
+
+.title{
+    color: black;
+    font-size: 20px;
+    text-align:center;
+    font-family: Monospace;
+    margin:7px;
+}
+
+.eklebutton{
+    height: 40px;
+    width: 210px;
+    border-radius:0px 0px 15px 15px;
+    background-color: grey;
+    border-color: grey;
+    color: black;
+    font-family: Monospace;
+    font-size: 20px;
+    border-color: white;
+}
+
+ img{
+    margin: 4px;
+ }
